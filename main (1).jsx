@@ -782,7 +782,7 @@ function StreamSaverApp() {
               <div style={{ fontSize: "22px", marginBottom: "6px" }}>🎉</div>
               <div style={{ fontSize: "15px", fontWeight: 700, color: "#fff", marginBottom: "4px" }}>Did you activate a perk or cancel a duplicate?</div>
               <div style={{ fontSize: "11px", color: "#7B8BA5", marginBottom: "14px", lineHeight: 1.5 }}>Let us know! Your feedback helps us prove this tool works and improve it for everyone.</div>
-              <a href="https://forms.gle/YOUR_SAVINGS_FORM_ID" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", padding: "12px 28px", borderRadius: "12px", background: "linear-gradient(135deg, #10B981, #059669)", color: "#fff", fontSize: "14px", fontWeight: 700, textDecoration: "none", boxShadow: "0 6px 24px rgba(16,185,129,0.3)", transition: "all 0.2s" }}>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZosdLSCBqYWiRoOwLn6eDObOaI6gM9j5xSpHnchh4J6tA0g/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", padding: "12px 28px", borderRadius: "12px", background: "linear-gradient(135deg, #10B981, #059669)", color: "#fff", fontSize: "14px", fontWeight: 700, textDecoration: "none", boxShadow: "0 6px 24px rgba(16,185,129,0.3)", transition: "all 0.2s" }}>
                 ✅ Yes, I Saved Money! (30 sec survey)
               </a>
             </div>
@@ -792,7 +792,7 @@ function StreamSaverApp() {
               <div style={{ fontSize: "22px", marginBottom: "6px" }}>🔔</div>
               <div style={{ fontSize: "15px", fontWeight: 700, color: "#fff", marginBottom: "4px" }}>Get alerts when your perks change</div>
               <div style={{ fontSize: "11px", color: "#7B8BA5", marginBottom: "14px", lineHeight: 1.5 }}>Carriers update perks without warning. We'll email you when something changes so you never miss savings or lose a perk.</div>
-              <a href="https://forms.gle/YOUR_EMAIL_FORM_ID" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", padding: "12px 28px", borderRadius: "12px", background: "linear-gradient(135deg, #6366F1, #4F46E5)", color: "#fff", fontSize: "14px", fontWeight: 700, textDecoration: "none", boxShadow: "0 6px 24px rgba(99,102,241,0.3)", transition: "all 0.2s" }}>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNQrg6S3DqKsD5ngvtFkImnmNrzVLf8_UIkIncCTV7B2vHog/viewform?usp=header" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", padding: "12px 28px", borderRadius: "12px", background: "linear-gradient(135deg, #6366F1, #4F46E5)", color: "#fff", fontSize: "14px", fontWeight: 700, textDecoration: "none", boxShadow: "0 6px 24px rgba(99,102,241,0.3)", transition: "all 0.2s" }}>
                 📧 Sign Up for Free Alerts
               </a>
               <div style={{ fontSize: "10px", color: "#4B5C75", marginTop: "8px" }}>No spam. Only perk changes that affect you. Unsubscribe anytime.</div>
